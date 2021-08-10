@@ -1,0 +1,3 @@
+﻿<metadata>
+  <attr path="/api/package[@name='com.alipay.sdk.tid']/class[@name='Tid']/field[@name='tid']" name="name">TidInfo</attr>
+</metadata>
